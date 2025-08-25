@@ -23,3 +23,6 @@ HTML – Game layout and elements
 CSS – Visual design, animations, and responsiveness
 
 JavaScript – Game logic, score handling, and randomization
+
+
+![rock.png](https://github.com/Shwta23/Rock-pepper/blob/main/rock.png)
